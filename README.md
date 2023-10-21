@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeferson</h1>
-# 💫 About Me:
-Creating bug since 2019
-Learning PHP
-A passionate fullstack developer from Brazil
 
+# 💫 About Me:
+Creating bug since 2019 <br>
+Learning PHP <br>
+A passionate fullstack developer from Brazil<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jefersonrobertors) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jefersonrobertors) 
